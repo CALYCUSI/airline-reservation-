@@ -1,0 +1,8 @@
+'templates/'
+
+'base.html': A base template with common elements like navigation.
+'index.html': Homepage template.
+'login.html': Login form.
+'register.html': Registration form.
+'reservations.html': Display user's reservations.
+'search_flights.html': Form to search and book flight
